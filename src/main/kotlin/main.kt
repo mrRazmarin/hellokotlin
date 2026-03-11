@@ -1,3 +1,3 @@
 fun main() {
-    print("First app")
+    print("First app!")
 }
